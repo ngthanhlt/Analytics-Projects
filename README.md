@@ -5,7 +5,7 @@ I am eager to hear your thoughts, feedback, and ideas. Feel free to send me inqu
 ### Table of Contents
 
 **Home**
-* [Home][home]
+* [Welcome][welcome]
 
 **Data Visualization**
 * [Insurance Cost Comparison Dashboard][insurancecost]
@@ -14,7 +14,7 @@ I am eager to hear your thoughts, feedback, and ideas. Feel free to send me inqu
 **Data Science**
 * [Aquifer Level Predictions at Water Technology Farm][aquiferlevel]
 
-[home]: https://github.com/ngthanhlt/Analytics-Projects/wiki
+[welcome]: https://github.com/ngthanhlt/Analytics-Projects/wiki
 
 [aquiferlevel]: https://github.com/ngthanhlt/Analytics-Projects/wiki/Data-Science:-Aquifer-Level-Predictions-at-Water-Technology-Farm
 
