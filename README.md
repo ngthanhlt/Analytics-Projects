@@ -2,16 +2,16 @@ My name is Thanh Tan Nguyen, an enthusiastic data analyst with an passion with d
 
 I am eager to hear your thoughts, feedback, and ideas. Feel free to send me inquiries and requests at ngthanh.ttn@gmail.com.
 
-# Table of Contents
+### Table of Contents
 
-### Home
+**Home**
 * [Home][home]
 
-### Data Visualization
+**Data Visualization**
 * [Insurance Cost Comparison Dashboard][insurancecost]
 * [Building Traffic Monitor][buildingtraffic]
 
-### Data Science
+**Data Science**
 * [Aquifer Level Predictions at Water Technology Farm][aquiferlevel]
 
 [home]: https://github.com/ngthanhlt/Analytics-Projects/wiki
