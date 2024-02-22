@@ -14,7 +14,7 @@ I am eager to hear your thoughts, feedback, and ideas. Feel free to send me inqu
 **Data Science**
 * [Aquifer Level Predictions at Water Technology Farm][aquiferlevel]
 
-[welcome]: https://github.com/ngthanhlt/Analytics-Projects/wiki
+[welcome]: https://github.com/ngthanhlt/Analytics-Projects/wiki/Welcome
 
 [aquiferlevel]: https://github.com/ngthanhlt/Analytics-Projects/wiki/Data-Science:-Aquifer-Level-Predictions-at-Water-Technology-Farm
 
