@@ -12,7 +12,7 @@ I am eager to hear your thoughts, feedback, and ideas. Feel free to send me inqu
 * [Building Traffic Monitor][buildingtraffic]
 
 **Data Science**
-* [Aquifer Level Predictions at Water Technology Farm][aquiferlevel]
+* [Aquifer Level Predictions][aquiferlevel]
 
 [welcome]: https://github.com/ngthanhlt/Analytics-Projects/wiki/Welcome
 
